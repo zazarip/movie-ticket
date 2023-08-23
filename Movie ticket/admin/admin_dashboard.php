@@ -90,7 +90,7 @@
         <a class="btn btn-warning btn-block" id="view_user">View User</a> <br>
         <a class="btn btn-danger btn-block" href="../logout.php">Logout</a> <br>
       </div>
-      <div class="col-md-8" id="load_section" style="background-color: #1D2228;padding:25px;">
+      <div class="col-md-8" id="load_section" style="background-color: #e9edf2;padding:25px;">
         <h5>Load section</h5>
         <p>
           This section is used to load all the file in this section.
